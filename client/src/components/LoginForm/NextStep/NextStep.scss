@@ -1,0 +1,11 @@
+.NextStep {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+
+  .login-btn {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+  }
+}
